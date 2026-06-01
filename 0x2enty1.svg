@@ -1,0 +1,23 @@
+<svg width="850" height="520" viewBox="0 0 850 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="520" rx="14" fill="#0d1117"/>
+  <circle cx="28" cy="25" r="7" fill="#ff5f56"/>
+  <circle cx="52" cy="25" r="7" fill="#ffbd2e"/>
+  <circle cx="76" cy="25" r="7" fill="#27c93f"/>
+
+  <text x="28" y="70" fill="#00ff88" font-family="Consolas, monospace" font-size="18">┌──(0x2enty1㉿github)-[~/profile]</text>
+  <text x="28" y="100" fill="#58a6ff" font-family="Consolas, monospace" font-size="18">└─$ whoami</text>
+  <text x="28" y="140" fill="#c9d1d9" font-family="Consolas, monospace" font-size="18">Cybersecurity learner focused on offensive security,</text>
+  <text x="28" y="170" fill="#c9d1d9" font-family="Consolas, monospace" font-size="18">blue team operations and network security.</text>
+
+  <text x="28" y="225" fill="#00ff88" font-family="Consolas, monospace" font-size="18">┌──(0x2enty1㉿github)-[~/focus]</text>
+  <text x="28" y="255" fill="#58a6ff" font-family="Consolas, monospace" font-size="18">└─$ cat focus.txt</text>
+
+  <text x="28" y="295" fill="#ff7b72" font-family="Consolas, monospace" font-size="18">Offensive Security</text>
+  <text x="28" y="325" fill="#79c0ff" font-family="Consolas, monospace" font-size="18">Web Application Security</text>
+  <text x="28" y="355" fill="#79c0ff" font-family="Consolas, monospace" font-size="18">Network Security</text>
+  <text x="28" y="385" fill="#79c0ff" font-family="Consolas, monospace" font-size="18">Active Directory</text>
+  <text x="28" y="415" fill="#79c0ff" font-family="Consolas, monospace" font-size="18">Blue Team / SOC</text>
+  <text x="28" y="445" fill="#79c0ff" font-family="Consolas, monospace" font-size="18">Security Research</text>
+
+  <text x="28" y="490" fill="#f2cc60" font-family="Consolas, monospace" font-size="18">Learning by building.</text>
+</svg>
