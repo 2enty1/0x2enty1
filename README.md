@@ -1,36 +1,53 @@
-# 0x2enty1
-<div align="center">
+<h1 align="center">0x2enty1</h1>
 
-<h1>0x2enty1</h1>
+<p align="center">
+Cybersecurity • Offensive Security • Blue Team • Networking
+</p>
 
-</div>
+```diff
++ ┌──(0x2enty1㉿github)-[~/profile]
++ └─$ whoami
 
-<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family:monospace;">
+  Cybersecurity learner focused on offensive security,
+  blue team operations and network security.
 
-<span style="color:#58a6ff;">┌──(0x2enty1㉿github)-[~/profile]</span><br>
-<span style="color:#3fb950;">└─$</span> whoami<br><br>
+! ┌──(0x2enty1㉿github)-[~/focus]
+! └─$ cat focus.txt
 
-Cybersecurity learner focused on offensive security, blue team and networking.<br><br>
++ Offensive Security
++ Web Application Security
++ Network Security
++ Active Directory
++ Blue Team / SOC
++ Security Research
 
-<span style="color:#58a6ff;">┌──(0x2enty1㉿github)-[~/focus]</span><br>
-<span style="color:#3fb950;">└─$</span> cat areas.txt<br><br>
+! ┌──(0x2enty1㉿github)-[~/currently-learning]
+! └─$ cat learning.txt
 
-<span style="color:#f0883e;">Offensive Security</span><br>
-Web Application Security<br>
-Network Security<br>
-Blue Team / SOC<br>
-Active Directory<br>
-Security Tooling<br><br>
++ Linux
++ Python
++ Windows Server
++ SIEM & Detection Engineering
++ Vulnerability Assessment
++ Security Tool Development
 
-<span style="color:#58a6ff;">┌──(0x2enty1㉿github)-[~/currently-learning]</span><br>
-<span style="color:#3fb950;">└─$</span> cat learning.txt<br><br>
+- ┌──(0x2enty1㉿github)-[~/status]
+- └─$ echo $MINDSET
 
-Linux<br>
-Python<br>
-Networking<br>
-Web Vulnerabilities<br>
-Windows Server<br>
-Active Directory<br>
-SIEM Basics<br>
+  Learning by building.
+```
 
-</div>
+## 🛠️ Technologies
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x2enty1&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x2enty1&layout=compact&theme=dark)
